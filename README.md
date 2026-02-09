@@ -23,5 +23,5 @@ A step by step guide to utilizing data validation drop-down lists in Microsoft E
 * Technical accuracy and attention to detail
 
   
-**📄 [View Writing Sample](Olufunbi_Williams_Writing.pdf)**
+**📄 [View Writing Sample](Olufunbi%20Williams%20Writing%20Sample.pdf)**
   
