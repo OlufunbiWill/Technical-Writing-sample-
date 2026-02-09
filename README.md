@@ -24,4 +24,18 @@ A step by step guide to utilizing data validation drop-down lists in Microsoft E
 
   
 **📄 [View Writing Sample](Olufunbi%20Williams%20Writing%20Sample.pdf)**
+
+
+## Skills Demonstrated
+* Procedural Documentation - Step-by-step instructions with clear prerequistes and expected outcomes.
+* Technical Accuracy - Precise terminology and verified procedures for Microsoft Excel.
+* User Support - Comprehensive troubleshooting sections and best practices.
+* Document Organization - Logical structure with appropriate headings and formatting.
+* Audience Awareness - Content tailored for students, professional users, and corporate environments.
+
+### Contact
+📧 Available for technical writing opportunities  
+GitHub: 🔗 [GitHub: @OlufunbiWill](https://github.com/OlufunbiWill)  
+Email : Olufunbiwilliams@gmail.com
+
   
